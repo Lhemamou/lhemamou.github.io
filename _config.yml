@@ -87,7 +87,7 @@ author:
   employer         : "Easyrecrue, Telecom Paris, LIMSI"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bp706woAAAAJ&hl=en"
-  email            :
+  email            : "l.hemamou@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/leo-hemamou-95646a98/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -209,33 +209,24 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # # _teaching
+  # - scope:
+      # path: ""
+      # type: teaching
+    # values:
+      # layout: single
+      # author_profile: true
+      # share: true
+      # comments: true
   # _publications
   - scope:
       path: ""
       type: publications
-    values:
+    values: 
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -244,7 +235,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _Popular Science
+  - scope:
+      path: ""
+      type: popularscience
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
