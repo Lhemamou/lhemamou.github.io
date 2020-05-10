@@ -13,10 +13,8 @@ author_profile: true
 
 <h2>International talks</h2>
 
-bla bla bla 1
-
 {% for post in site.talks reversed %}
-	{% if post.type != "National Talk" %}
+	{% if post.type != "International Talk" %}
 		{% continue %}
 	{% endif %}
   {% include archive-single-talk.html %}
@@ -24,12 +22,10 @@ bla bla bla 1
 
 <h2>National talks</h2>
 
-
-bla bla bla 2
-
 {% for post in site.talks reversed %}
-	{% if post.type == "International Talk" %}
-		{post}
+	{% if post.type != "National Talk" %}
+		{% continue %}
+	{% endif %}
 		{% include archive-single-talk.html %}
 	{% endif %}
 {% endfor %}
