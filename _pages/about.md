@@ -38,5 +38,5 @@ My PhD work is supervised by
 
   
 I have intensely worked in collaboration with
-* [Arthur GUILLON] (https://www.linkedin.com/in/arthur-guillon-1a729913b/ , "LinkedIn"), Ph.D in Computer Science, Senior Machine Learning Enginneer in EASYRECRUE
-* [Ghazi FELHI] (https://www.linkedin.com/in/ghazi-felhi-862775106/?locale=en_US), Ph.D. Student at Université Paris-13
+* [Arthur GUILLON](https://www.linkedin.com/in/arthur-guillon-1a729913b/ , "LinkedIn"), Ph.D in Computer Science, Senior Machine Learning Enginneer in EASYRECRUE
+* [Ghazi FELHI](https://www.linkedin.com/in/ghazi-felhi-862775106/?locale=en_US , "LinkedIn"), Ph.D. Student at Université Paris-13
