@@ -16,6 +16,7 @@ author_profile: true
 bla bla bla 1
 
 {% for post in site.talks reversed %}
+	{% if post.type == "National Talk" %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
@@ -24,6 +25,7 @@ bla bla bla 1
 
 bla bla bla 2
 
-{% for post in site.nationaltalk reversed %}
+{% for post in site.talks reversed %}
+	{% if post.type == "International Talk" %}
   {% include archive-single-talk.html %}
 {% endfor %}
