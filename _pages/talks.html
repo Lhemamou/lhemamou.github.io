@@ -11,6 +11,19 @@ author_profile: true
 
 {% endif %}
 
+<h2>International talks</h2>
+
+bla bla bla 1
+
 {% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2>National talks</h2>
+
+
+bla bla bla 2
+
+{% for post in site.nationaltalk reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
