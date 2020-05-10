@@ -187,7 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  popularscience:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -235,7 +237,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _Popular Science
+  # _popularscience
   - scope:
       path: ""
       type: popularscience
