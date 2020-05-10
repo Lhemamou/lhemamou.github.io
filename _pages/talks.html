@@ -17,7 +17,7 @@ bla bla bla 1
 
 {% for post in site.talks reversed %}
 	{% if post.type != "National Talk" %}
-		{continue}
+		{% continue %}
 	{% endif %}
   {% include archive-single-talk.html %}
 {% endfor %}
