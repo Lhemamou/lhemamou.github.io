@@ -16,8 +16,8 @@ author_profile: true
 bla bla bla 1
 
 {% for post in site.talks reversed %}
-	{% if post.type == "National Talk" %}
-		{post}
+	{% if post.type != "National Talk" %}
+		{continue}
 	{% endif %}
   {% include archive-single-talk.html %}
 {% endfor %}
