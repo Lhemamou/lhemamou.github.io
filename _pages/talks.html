@@ -30,6 +30,6 @@ bla bla bla 2
 {% for post in site.talks reversed %}
 	{% if post.type == "International Talk" %}
 		{post}
+		{% include archive-single-talk.html %}
 	{% endif %}
-  {% include archive-single-talk.html %}
 {% endfor %}
