@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Introduction
+
 ======
-Hi everyone :)
+Hi everyone :) <br />
+
+
 I am Léo Hemamou and welcome to my personal webpage !
+
+
+
 I am currrently a final year PhD student. This wonderful journey has begun since October 2017 in collaboration between LIMSI-CNRS, Telecom ParisTech and EASYRECRUE.
 
 
