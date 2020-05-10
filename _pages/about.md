@@ -23,7 +23,12 @@ Research topics
 My research work is pluridisciplinary as it combines IO psychology, machine learning, multimodal model, and social signal processing. I am especially interested in an automatic evaluation of hirability in the asynchronous job interview. Among the topics studied in the context of this Ph.D., I am focusing on personal selection, job interview, neural networks, multimodal representation, and interpretability.
 
 
-The aim of my work is to 1) evaluate automatically the hirability of a candidate based on his video answers 2) infer social competencies of the candidate 3) compare the results obtained through machine learning with results in IO psychology, especially for non-verbal behavior.
+The aim of my work is to :
+1. evaluate automatically the hirability of a candidate based on his video answers 
+2. infer social competencies of the candidate 
+3. compare the results obtained through machine learning with results in IO psychology, especially for non-verbal behavior.
+
+
 Collaborators
 ======
 My PhD work is supervised by 
