@@ -6,18 +6,25 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Popular Science"
-    url: /popularscience/
+# main:
+ # - title: "Publications"
+   # url: /publications/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Talks"
+    # url: /talks/    
+
+  # - title: "Teaching"
+    # url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+  # - title: "Popular Science"
+    # url: /popularscience/
+
+  # - title: "Blog Posts"
+    # url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "CV"
+    # url: /cv/
+    
+  # - title: "Guide"
+    # url: /markdown/
 

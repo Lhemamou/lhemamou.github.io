@@ -8,6 +8,24 @@ redirect_from:
   - /about.html
 ---
 
+
+===== Introduction =====
+PhD student in collaboration between LIMSI-CNRS, Telecom ParisTech and [[https://www.easyrecrue.com/en/|EASYRECRUE]] since October 2017.
+===== Research topics =====
+My research work is pluridisciplanary as it combines IO psychology, machine learning, multimodal model and social signal processing. I am especially interested in automatic evaluation of hirability in asynchronous job interview. Among the topics studied in the context of this PhD, i am focusing on personal selection, job interview, neural networks, multimodal representation and explanability. 
+
+The aim of my work is to 1) evaluate automatically the hirability of a candidate based on his video answers 2) infer social competencies of the candidate 3) compare the results obtained through machine learning with results in IO psychology, especially for non-verbal behaviour.
+
+
+===== Supervisor =====
+My PhD work is supervised by 
+  * [[https://perso.limsi.fr/wiki/doku.php/martin/accueil|Jean-Claude MARTIN]], Computer Science Professor at University Paris-Sud, conducting his research at LIMSI-CNRS.
+  * [[https://clavel.wp.imt.fr/|Chloé CLAVEL]], Associate Professor in Affective Computing, conducting his research at Telecom ParisTech.
+  * [[https://www.easyrecrue.com/en/society/about|Jérémy LANGLAIS]], Partner & CTO of EASYRECRUE.
+
+  
+
+======
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
