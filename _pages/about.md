@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-======
-Hi everyone :) <br />
+Hi everyone :) 
 
 
 I am Léo Hemamou and welcome to my personal webpage !
