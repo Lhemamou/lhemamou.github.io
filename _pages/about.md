@@ -20,7 +20,7 @@ I am currently a final year Ph.D. student. This magnificent journey has begun si
 
 Research topics
 ======
-My research work is pluridisciplinary as it combines IO psychology, machine learning, multimodal model, and social signal processing. I am especially interested in an automatic evaluation of hirability in the asynchronous job interview. Among the topics studied in the context of this Ph.D., I am focusing on personal selection, job interview, neural networks, multimodal representation, and interpretability.
+My research work is pluridisciplinary as it combines IO psychology, machine learning, multimodal model, and social signal processing. I am especially interested in an automatic evaluation of hirability in the asynchronous job interview. Among the topics studied in the context of my Ph.D., I am focusing on personal selection, job interview, neural networks, multimodal representation, and interpretability.
 
 
 The aim of my work is to :
