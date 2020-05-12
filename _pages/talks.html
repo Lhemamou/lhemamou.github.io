@@ -14,7 +14,7 @@ author_profile: true
 <h2>International talks</h2>
 
 {% for post in site.talks reversed %}
-	{% if post.type != "International Talk" %}
+	{% if post.typelocation != "International" %}
 		{% continue %}
 	{% endif %}
   {% include archive-single-talk.html %}
@@ -23,7 +23,7 @@ author_profile: true
 <h2>National talks</h2>
 
 {% for post in site.talks reversed %}
-	{% if post.type != "National Talk" %}
+	{% if post.typelocation != "National" %}
 		{% continue %}
 	{% endif %}
 		{% include archive-single-talk.html %}
