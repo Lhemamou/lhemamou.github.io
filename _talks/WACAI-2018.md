@@ -13,4 +13,4 @@ Les entretiens vidéo différés sont devenus plus en plus populaires dans le mi
 
 TLDR : La retranscription automatique du contenu verbal peut être utilisé afin d'évaluer des compétences dans les entretiens d'embauche asynchrones.
 
-Lien : http://www.lsis.org/wacai2018/proceedings/WACAI2018_paper_20.pdf
+<a href="http://www.lsis.org/wacai2018/proceedings/WACAI2018_paper_20.pdf" target="_blank">Lien de telechargement</a>

@@ -12,4 +12,4 @@ Nous nous intéressons à l’étude de signaux influents dans les entretiens vi
 
 TLDR : Les tranches de vidéos selectionnées par le mécanisme d'attention ont une meilleure prédictabilité que des tranches aléatoires. Ces tranches ont lieu le plus souvent au début et en fin d'interactions pour les modalités audio et vidéo. 
 
-Lien de téléchargement : https://hal.inria.fr/hal-02933469/document
+<a href="https://hal.inria.fr/hal-02933469/document" target="_blank">Lien de téléchargement</a>
