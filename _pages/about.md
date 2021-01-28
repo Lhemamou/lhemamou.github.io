@@ -34,7 +34,6 @@ Collaborators
 My PhD work is supervised by 
   * [Jean-Claude MARTIN](https://perso.limsi.fr/wiki/doku.php/martin/accueil "Pages Personnelle"), Computer Science Professor at University Paris-Sud, conducting his research at LIMSI-CNRS.
   * [Chloé CLAVEL](https://clavel.wp.imt.fr/ "Pages Personnelle"), Associate Professor in Affective Computing, conducting his research at Telecom ParisTech.
-  * [Jérémy LANGLAIS](https://www.easyrecrue.com/en/society/about "Easyrecrue Page"), Partner & CTO of EASYRECRUE.
 
   
 I have intensely worked in collaboration with
