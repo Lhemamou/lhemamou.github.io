@@ -15,7 +15,7 @@ Hi everyone :)
 I am Léo Hemamou, and welcome to my webpage!
 
 
-I am currently a final year Ph.D. student. This magnificent journey has begun since October 2017 in collaboration between LIMSI-CNRS, Telecom ParisTech, and EASYRECRUE.
+I am currently a research data scientist in ICIMS in the Talent Cloud Artificial Intelligence Team. Previously, I obtanied my PhD in Computer Science entitled "Automatic Analysis of Multimodal Behaviors in Job Asynchronous Video Interview". My PhD was in collaboration between LIMSI-CNRS, Telecom ParisTech, and EASYRECRUE.
 
 
 Research topics
@@ -31,7 +31,7 @@ The aim of my work is to :
 
 Collaborators
 ======
-My PhD work is supervised by 
+My PhD work was supervised by 
   * [Jean-Claude MARTIN](https://perso.limsi.fr/wiki/doku.php/martin/accueil "Pages Personnelle"), Computer Science Professor at University Paris-Sud, conducting his research at LIMSI-CNRS.
   * [Chloé CLAVEL](https://clavel.wp.imt.fr/ "Pages Personnelle"), Associate Professor in Affective Computing, conducting his research at Telecom ParisTech.
 
