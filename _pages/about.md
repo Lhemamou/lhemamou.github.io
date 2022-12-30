@@ -14,18 +14,26 @@ Hi everyone :)
 
 I am Léo Hemamou, and welcome to my webpage!
 
+I am currently a NLP research data scientist at Sanofi in the AIDA team (Artificial Intelligence and deep analytics). 
 
-I am currently a research data scientist in ICIMS in the Talent Cloud Artificial Intelligence Team.
+In 2022, I held a research data scientist position in ICIMS in the Talent Cloud Artificial Intelligence Team.
 
 In 2021, I obtained my PhD in Computer Science entitled "Automatic Analysis of Multimodal Behaviors in Job Asynchronous Video Interview". My PhD was in collaboration between LIMSI-CNRS, Telecom ParisTech, and EASYRECRUE.
 
 
 Research topics
 ======
-My research work is pluridisciplinary as it combines IO psychology, machine learning, multimodal model, and social signal processing. I am especially interested in an automatic evaluation of hirability in the asynchronous job interview. Among the topics studied in the context of my Ph.D., I am focusing on personal selection, job interview, neural networks, multimodal representation, and interpretability.
+Since my thesis I have always been interested in a large number of topics in the field of machine learning. Nevertheless, over the years, my expertise has been sharpened especially on the use of deep learning for the understanding of human behavior. This field of research touches many topics such as automatic speech analysis, automatic speech recognition, mutlimodal fusion, interpretability, fairness, etc.
+
+Recently, I am interested in long sequence processing, multimodal fusion, automatic summarization and prompt tuning.
 
 
-The aim of my work is to :
+PhD Research topics
+======
+My PhD research work was pluridisciplinary as it combined IO psychology, machine learning, multimodal model, and social signal processing. I was especially interested in an automatic evaluation of hirability in the asynchronous job interview. Among the topics studied in the context of my Ph.D., I was focusing on personal selection, job interview, neural networks, multimodal representation, and interpretability.
+
+
+The aim of my work was to :
 1. evaluate automatically the hirability of a candidate based on his video answers 
 2. infer social competencies of the candidate 
 3. compare the results obtained through machine learning with results in IO psychology, especially for non-verbal behavior.
@@ -40,5 +48,7 @@ My PhD work was supervised by
 
   
 I have intensely worked in collaboration with
-* [Arthur GUILLON](https://www.linkedin.com/in/arthur-guillon-1a729913b/ , "LinkedIn"), Ph.D in Computer Science, Senior Machine Learning Enginneer in EASYRECRUE
+* [Arthur GUILLON](https://www.linkedin.com/in/arthur-guillon-1a729913b/ , "LinkedIn"), Ph.D in Computer Science, Blockchain Developer in MARIGOLD
 * [Ghazi FELHI](https://www.linkedin.com/in/ghazi-felhi-862775106/?locale=en_US , "LinkedIn"), Ph.D. Student at Université Paris-13
+* [William COLEMANN](https://www.linkedin.com/in/colemanwilliam/?originalSubdomain=ie , "LinkedIn"), Ph.D., Data Scientist in ICIMS
+
