@@ -11,6 +11,20 @@ author_profile: true
 
 {% endif %}
 
+<h2>International</h2>
+
 {% for post in site.talks reversed %}
+	{% if post.typelocation != "International" %}
+		{% continue %}
+	{% endif %}
   {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2>National</h2>
+
+{% for post in site.talks reversed %}
+	{% if post.typelocation != "National" %}
+		{% continue %}
+	{% endif %}
+		{% include archive-single-talk.html %}
 {% endfor %}
