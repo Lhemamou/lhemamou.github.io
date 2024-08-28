@@ -50,7 +50,7 @@ author:
 
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -193,7 +193,7 @@ kramdown:
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
-  entity_output: as_char
+  entity_output: as_char        
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
@@ -216,6 +216,9 @@ collections:
   popularscience:
     output: true
     permalink: /:collection/:path/
+  miscalleneous:
+    output: true
+    permalink : /collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -272,6 +275,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # miscalleneous
+  - scope:
+      path: ""
+      type: miscalleneous
+    values: 
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
