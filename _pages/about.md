@@ -18,6 +18,7 @@ I am currently a NLP research data scientist at Sanofi in the AIDA team (Artific
 
 In 2022, I held a research data scientist position in ICIMS in the Talent Cloud Artificial Intelligence Team.
 
+
 In 2021, I obtained my PhD in Computer Science entitled "Automatic Analysis of Multimodal Behaviors in Job Asynchronous Video Interview". My PhD was in collaboration between LIMSI-CNRS, Telecom ParisTech, and EASYRECRUE.
 
 
@@ -37,6 +38,7 @@ The aim of my work was to :
 1. evaluate automatically the hirability of a candidate based on his video answers 
 2. infer social competencies of the candidate 
 3. compare the results obtained through machine learning with results in IO psychology, especially for non-verbal behavior.
+
 
 I'm also interested in Fairness especially disentanglement models and adversarial methods.
 

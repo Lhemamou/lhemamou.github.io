@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Miscalleneous"
+permalink: /miscalleneous/
+author_profile: true
+---
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+This page regroups some of the side-project i worked on. The articles are not pollished as I would, but it's still better than nothing :)
+Do it and share, improve it later !
+
+{% for post in site.miscalleneous reversed %}
+  {% include archive-single.html %}
+{% endfor %}
