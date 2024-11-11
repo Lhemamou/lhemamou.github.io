@@ -1,8 +1,8 @@
 ---
-title: "Dreamcast Real-Time Clock: Please don't ask me again to set the time"
+title: "Reviving a Legend: My Journey to Restore and Mod the Sega Dreamcast"
 collection: miscalleneous
-permalink: /miscalleneous/dreamcast-rtc
-date: 2024-09-27
+permalink: /miscalleneous/dreamcast-mod
+date: 2024-11-11
 ---
 
 ## The Fascination with the Dreamcast
