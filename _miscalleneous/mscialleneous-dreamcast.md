@@ -5,9 +5,8 @@ permalink: /miscalleneous/dreamcast-mod
 date: 2024-11-11
 ---
 
-## The Fascination with the Dreamcast
-
 The Dreamcast has always been a fascinating console. First, because it was a massive commercial failure, and understanding what led to this downfall is insightful. Second, because the console itself was revolutionary for its time, with an arcade-style positioning that set it apart from other consoles of its generation. Third, because it marks a significant turning point in Sega's decline and a noteworthy event in the history of video games. As for my own story with the Dreamcast, it began in Sham Shui Po, Hong Kong, in 2016, when I found a yellowed Dreamcast at the bottom of a chest, just waiting to be plugged in. The rest of the story follows below!
+![Dreamcast cover](/images/IMG_20240926_160341.jpg)
 
 ## Impatience and Rookie Mistakes
 
