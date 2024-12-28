@@ -6,9 +6,12 @@ date: 2024-12-28
 ---
 
 The idea of finding your historical doppelganger has always fascinated me. There's something deeply compelling about the notion that somewhere in the vast tapestry of history, someone might have shared our features, our expressions, perhaps even our spirit. This fascination led me to create [EndlessCycle](https://endlesscycle.quest), a web application that uses AI to find your historical twin. Like many passion projects, it started with a simple question: "What if we could build a bridge between faces across time?"
-![EndlessCycle Cover](/images/IMG_20240926_160341.jpg)
+![EndlessCycle Cover](/images/endlesscycle_image.png)
 
 ## The James Leininger Story: From Tall Tales to Tech Inspiration
+
+![James Leininger](/images/james_leineger.jpg)
+
 
 The name EndlessCycle was actually inspired by the fascinating (though likely embellished) story of James Leininger. In the early 2000s, this tale about a young boy supposedly remembering his "past life" as a WWII pilot made quite a splash in the media. While the story has been largely debunked - like many similar claims - it sparked an interesting thought: what if we could actually find historical figures who looked like us?
 Not because of reincarnation or mystical connections (sorry, crystal lovers!), but simply because with billions of human faces throughout history, there's bound to be some fascinating lookalikes out there. It's like that party trick where you tell someone they look exactly like a celebrity, except we're playing it with the entire course of human history!
@@ -27,14 +30,14 @@ Once your historical twins are found, you're presented with a beautifully format
 ## Behind the Mirror: Technical Sorcery
 The backend is built with FastAPI, which handles all the image processing and communication with our face-matching system. When you upload a photo, several things happen:
 
-1. Your image is processed using DeepFace with the Facenet512 model, which creates the embedding of your face
+1. Your image is processed using [DeepFace](https://github.com/serengil/deepface) with the Facenet512 model, which creates the embedding of your face
 2. This embedding is compared against our database of historical figures using Milvus, a vector similarity search engine
 3. The closest matches are retrieved along with their historical metadata
 
 ## The Historical Archive: Vector Database Magic
 At the heart of EndlessCycle lies a Milvus vector database, hosted on Zilliz Cloud. Think of it as a vast library where instead of organizing faces by traditional categories, we organize them by their mathematical similarities. Each historical figure in our database has:
 
-- A 512-dimensional face embedding vector (fancy math that represents facial features)
+- A 512-dimensional face embedding vector 
 - Biographical data (name, birth/death dates, occupation)
 - Links to portraits and Wikipedia pages
 
