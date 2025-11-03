@@ -14,19 +14,20 @@ Hi everyone :)
 
 I am Léo Hemamou, and welcome to my webpage!
 
-I am currently a NLP research data scientist at Sanofi in the AIDA team (Artificial Intelligence and deep analytics). 
+I am currently an Applied Scientist at Asteria, a bio-inspired innovation startup. I am focused on bridging the biological and engineering worlds via NMT, KG, etc 
 
-In 2022, I held a research data scientist position in ICIMS in the Talent Cloud Artificial Intelligence Team.
+In 2023, I was part of the AIDA team (Artificial Intelligence and deep analytics) in Sanofi as an NLP research data scientist. 
 
+In 2022, I held a research data scientist position at ICIMS in the Talent Cloud Artificial Intelligence Team.
 
 In 2021, I obtained my PhD in Computer Science entitled "Automatic Analysis of Multimodal Behaviors in Job Asynchronous Video Interview". My PhD was in collaboration between LIMSI-CNRS, Telecom ParisTech, and EASYRECRUE.
 
 
 Research topics
 ======
-Since my thesis I have always been interested in a large number of topics in the field of machine learning. Nevertheless, over the years, my expertise has been sharpened especially on the use of deep learning for the understanding of human behavior. This field of research touches many topics such as automatic speech analysis, automatic speech recognition, mutlimodal fusion, interpretability, fairness, etc.
+Since my thesis I have always been interested in a large number of topics in the field of machine learning. Nevertheless, over the years, my expertise has been sharpened especially on the use of deep learning for the understanding of human behavior and NLP. This field of research touches many topics such as automatic speech analysis, automatic speech recognition, multimodal fusion, interpretability, fairness, long sequence processing, automatic summarization, PEFT, etc
 
-Recently, I am interested in long sequence processing, multimodal fusion, automatic summarization and prompt tuning.
+Recently, I am interested in Knowledge Graphs, Small LM and Neural Machine Translation.
 
 
 PhD Research topics
@@ -53,4 +54,5 @@ I have intensely worked in collaboration with
 * [Arthur GUILLON](https://www.linkedin.com/in/arthur-guillon-1a729913b/ , "LinkedIn"), Ph.D in Computer Science, Blockchain Developer in MARIGOLD
 * [Ghazi FELHI](https://www.linkedin.com/in/ghazi-felhi-862775106/?locale=en_US , "LinkedIn"), Ph.D. Student at Université Paris-13
 * [William COLEMANN](https://www.linkedin.com/in/colemanwilliam/?originalSubdomain=ie , "LinkedIn"), Ph.D., Data Scientist in ICIMS
+* [Bhupi DHILLON](https://www.linkedin.com/in/bhupi-d-7abbb524b/, "LinkedIn"), AI/ML Data Scientist & Leader in SANOFI
 
