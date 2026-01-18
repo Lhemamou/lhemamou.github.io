@@ -6,7 +6,6 @@ date: 2026-01-18
 ---
 
 In April 2025, Barcelona experienced a massive internet outage that left millions without connectivity. A few months later, Red by SFR users in France faced similar issues. These events got me thinking about our dependency on constant internet access. What if you could still access AI assistance with nothing but a basic phone and SMS? This is the story of how I built exactly that.
-
 ![LilyGo T-Call SIM800 board](/images/sms-llm.jpg)
 
 ## The Problem: Always Connected, Until You're Not
